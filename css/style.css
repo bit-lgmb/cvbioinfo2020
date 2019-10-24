@@ -40,6 +40,8 @@ html, body {
   height: 100%;
 }
 
+
+
 .floatleft {
   float: left;
 }
@@ -1840,8 +1842,13 @@ font-size: 100px;
   text-align: center;
 }
 
-.footer-area-bottom {
+.footer-area-bottom2 {
   background: #f1f1f1 none repeat scroll 0 0;
+  padding: 15px 0;
+}
+
+.footer-area-bottom {
+  background: #f6f6f6 none repeat scroll 0 0;
   padding: 15px 0;
 }
 
@@ -2351,6 +2358,9 @@ span.email-notes {
   padding-top: 30px;
 }
 
+.pales{
+font-size:18px
+}
 /*----------------------------------------
  .End CSS
 ----------------------------------------*/
