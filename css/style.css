@@ -2382,4 +2382,8 @@ background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
 ----------------------------------------*/
 button{
     background-color:black;
+
+}
+.btn-format{
+    color: #FFF;
 }
