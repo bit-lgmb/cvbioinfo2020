@@ -2380,3 +2380,6 @@ background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
 /*----------------------------------------
  .End CSS
 ----------------------------------------*/
+button{
+    background-color:black;
+}
