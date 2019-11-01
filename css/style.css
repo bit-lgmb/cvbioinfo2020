@@ -2378,12 +2378,55 @@ background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
   color: #fff;
 }
 /*----------------------------------------
- .End CSS
+ .BRENO FORMAT
 ----------------------------------------*/
+
 button{
     background-color:black;
 
 }
 .btn-format{
     color: #FFF;
+}
+
+/*----------------------------------------
+ .TABLE
+----------------------------------------*/
+
+
+table {
+
+border-collapse: collapse;
+}
+
+
+th {
+background-color:#CCC;
+font-size: 12px;
+color:#;
+
+border-bottom:solid 1px #CCC;
+height:26px;
+padding-right:5px;
+
+	}
+tr:nth-child(odd) {
+		background-color:#F3F3F3;
+}
+
+tr:nth-child(even) {
+		background-color:#FFF;
+
+}
+
+tr, td {
+height:26px;
+
+font-family:Verdana, Geneva, sans-serif;
+font-size:12px;
+
+}
+tr:hover {
+background-color:#00D8CC;
+cursor:pointer; color:#FFF;
 }
